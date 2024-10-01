@@ -5,7 +5,7 @@ categories: [Cybersecurity, Learning]
 tags: [cybersecurity, learning]     # TAG names should always be lowercase
 ---
 # CyberForce Tryout
-This blog details my findings and actions in response to the challenge provided here ->![InstructionsPDF](https://drive.google.com/file/d/1BZqirrCoItv9UwqhLDLddtByMdty1HVB/view?usp=sharing). This experience taught me a lot about network security, penetration testing, and vulnerability remediation. It also allowed me to practice my skills in ethical hacking and network analysis. The challenge was for a spot on our university's CyberForce team. I made the team! I am ecstatic and will be competing in November. Throughout these descriptions I talk in the third person, as that is what I would do during a team competition.
+This blog details my findings and actions in response to the challenge provided here ->[InstructionsPDF](https://drive.google.com/file/d/1BZqirrCoItv9UwqhLDLddtByMdty1HVB/view?usp=sharing). This experience taught me a lot about network security, penetration testing, and vulnerability remediation. It also allowed me to practice my skills in ethical hacking and network analysis. The challenge was for a spot on our university's CyberForce team. I made the team! I am ecstatic and will be competing in November. Throughout these descriptions I talk in the third person, as that is what I would do during a team competition.
 
 # OBJECTIVE ONE: REGAINING CONTROL
 
