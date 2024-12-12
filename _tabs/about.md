@@ -5,9 +5,9 @@ order: 4
 ---
 ## About Me
 
-🛡️ Cyber Defender | Full-time Student @ University of Florida | Blue Teamer | Engineer | Cloud 
+🛡️ Problem Solver | Full-time Student @ University of Florida
 
-Hey there, I’m Gabe! A dedicated member of the UF Information Security Team and a full-time student at the University of Florida. My passion lies in cybersecurity, particularly in blue teaming and cloud security. 
+Hey there, I’m Gabe! A dedicated member of the UF Information Security Team, Software Engineer with Tamid, and a full-time student at the University of Florida. My passion lies in solutions engineering, cybersecurity, and cloud computing.
 
 🌟 **What to Expect**: Here's what I plan to discuss:
 - Competitions
