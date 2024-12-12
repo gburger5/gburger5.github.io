@@ -3,7 +3,6 @@
 icon: fas fa-info-circle
 order: 4
 ---
-## About Me
 
 🛡️ Problem Solver | Full-time Student @ University of Florida
 
