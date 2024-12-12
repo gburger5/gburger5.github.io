@@ -16,10 +16,10 @@ timezone: America/New_York
 
 title: Gabe's Infosec Journey # the main title
 
-tagline: Learner | UFSIT # it will display as the sub-title
+tagline: Problem Solver | UFSIT | Tamid # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Gabe's Infosec Journey
+  Gabe's Tech Journey
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
