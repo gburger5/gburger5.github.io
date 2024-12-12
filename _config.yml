@@ -14,7 +14,7 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Gabe's Infosec Journey # the main title
+title: Gabe's Tech Journey # the main title
 
 tagline: Problem Solver | UFSIT | Tamid # it will display as the sub-title
 
