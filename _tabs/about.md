@@ -3,14 +3,14 @@
 icon: fas fa-info-circle
 order: 4
 ---
+☁️ Cloud Enthusiast | Incoming Solutions Architect Intern @ Amazon | Full-time Student @ University of Florida
 
-🛡️ Problem Solver | Full-time Student @ University of Florida
+Hey there, I’m Gabe! I’m an incoming Solutions Architect Intern at Amazon, an AI and Cloud Practitioner, and a full-time student at the University of Florida. My focus is on cloud computing, AI, and building scalable solutions.
 
-Hey there, I’m Gabe! A dedicated member of the UF Information Security Team, Software Engineer with Tamid, and a full-time student at the University of Florida. My passion lies in solutions engineering, cybersecurity, and cloud computing.
+🌟 What to Expect: I share about:
 
-🌟 **What to Expect**: Here's what I plan to discuss:
-- Competitions
-- Self Learning
-- Cloud Concepts
-- Cloud Architecture
+- Cloud Concepts and Architecture
+- Self-Learning Journeys
 - Certification Studying
+- AI Applications
+- Project Highlights
