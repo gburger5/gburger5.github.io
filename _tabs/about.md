@@ -29,3 +29,6 @@ Hey there, I’m Gabe! I’m a Solutions Architect Intern at AWS, a certified So
 - Certification Studying
 - AI Applications
 - Project Highlights
+
+*All opinions are my own and do not reflect my employer.*
+
