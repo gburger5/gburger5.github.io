@@ -3,7 +3,8 @@
 icon: fas fa-info-circle
 order: 4
 ---
-I ❤️ ☁️ 
+I ❤️ ☁️
+
 Certified Solutions Architect Professional  
 Student @ University of Florida  
 Solutions Architect Intern @ AWS 
@@ -21,7 +22,7 @@ Hey there, I’m Gabe! I’m a Solutions Architect Intern at AWS, a certified So
     <img src="/assets/images/AIF.png" alt="AWS AI Fundamentals" width="150"/>
 </div>
 
-🌟 What to Expect: I share about:
+## 🌟 What I Will Share
 
 - Cloud Concepts and Architecture
 - Self-Learning Journeys
